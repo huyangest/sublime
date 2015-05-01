@@ -1,16 +1,28 @@
 {
+	//主题配色
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	//不管鼠标在不在行号边栏，代码折叠按钮一直显示
 	"fade_fold_buttons": true,
+	//代码折叠按钮
 	"fold_buttons": true,
+	//字体大小
 	"font_size": 14,
+	// Tab键制表符宽度
+	"tab_size": 4,
+	//突显当前光标所在行
 	"highlight_line": true,
+	//高亮未保存的文件
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	//下行距
 	"line_padding_bottom": 1,
+	//上行距
 	"line_padding_top": 1,
+	//使用的主题
 	"theme": "Soda Dark.sublime-theme",
+	//自动换行
 	"word_wrap": true
 }
